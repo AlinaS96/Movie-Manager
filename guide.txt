@@ -1,0 +1,31 @@
+To get started with the backend project.
+
+Prerequisites
+Install Node.js which includes node package manager.
+
+Set up the backend project
+1. locate to the backend directory and type the command in shell: "npm install".
+This will install all the dependencies for the backend project.
+
+2. In the .env file set up all the environment variables to connect to your database
+
+3. To start the project use the command in shell: "npm start".
+This will serve the app on http://localhost:4000
+
+-------------------------------------------------------------------------
+
+To get started with the frontend project.
+
+Prerequisites
+Install Node.js which includes node package manager.
+
+Set up the frontend project.
+1. locate to the frontend directory and type the command in shell: "npm install -g serve".
+This will install the "serve" package globaly to run the frontend project
+2. To start the project use the command in shell: "serve -s build"
+This will serve the app on http://localhost:3000
+
+
+Username:mansoor123
+Password:mansoor123
+http://localhost:3000/app/home
